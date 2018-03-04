@@ -1,0 +1,9 @@
+extends layout.pug
+
+block content
+	.sidebar(data-color="purple")
+		.sidebar-wrapper
+			include mainmenu.pug
+			block sidebar
+	.main-panel
+		block main-panel

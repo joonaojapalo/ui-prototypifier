@@ -1,0 +1,21 @@
+{
+  "name": "ui-prototypifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joona Ojapalo",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-watch": "^5.0.0",
+    "gulp-watch-pug": "^1.0.0",
+    "pug": "^2.0.0-rc.4"
+  },
+  "dependencies": {
+    "material-dashboard": "^1.2.0"
+  }
+}
